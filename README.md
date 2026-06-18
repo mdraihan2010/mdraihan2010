@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Raihan 👋
 
-<!--
-**mdraihan2010/mdraihan2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at Jashore University of Science and Technology (JUST)
 
-Here are some ideas to get you started:
+💻 Competitive Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+
+🛠 Languages & Tools
+- C
+- C++
+- Java
+- HTML
+
+🏆 Competitive Programming Profiles
+- Codeforces: Raihan20
+- CodeChef: raihan20
+
+📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/md-raihan-428101346
+
+⭐ Interests
+- Problem Solving
+- Data Structures & Algorithms
+- Web Development

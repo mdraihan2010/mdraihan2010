@@ -14,11 +14,7 @@
 
 # 👨‍💻 About Me
 
-Hi! I'm **MD Raihan**, a Computer Science and Engineering student from **Bangladesh** 🇧🇩.
-
-I enjoy solving challenging programming problems, learning new technologies, and building a strong foundation in Computer Science.
-
-I'm passionate about continuous learning and always looking for opportunities to improve myself academically and professionally.
+Hi! I'm **MD Raihan**, a Computer Science and Engineering student from **Bangladesh** 🇧🇩. I enjoy solving challenging programming problems, learning new technologies, and building a strong foundation in Computer Science. I'm passionate about continuous learning and always looking for opportunities to improve myself academically and professionally.
 
 ---
 
@@ -163,16 +159,6 @@ More repositories coming soon...
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdraihan2010&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -183,23 +169,10 @@ More repositories coming soon...
 
 ---
 
-# 🎯 2026 Goals
-
-* ✅ Solve 1000+ Programming Problems
-* ✅ Master Data Structures & Algorithms
-* ✅ Learn Full Stack Web Development
-* ✅ Build High-Quality Projects
-* ✅ Improve Competitive Programming Rating
-* ✅ Contribute to Open Source
-* ✅ Prepare for Higher Studies Abroad
-* ✅ Achieve a High IELTS Score
-
----
-
 # 🌍 Languages
 
-* 🇧🇩 Bangla (Native)
-* 🇬🇧 English (Professional Working Proficiency)
+*  Bangla (Native)
+*  English (Professional Working Proficiency)
 
 ---
 
